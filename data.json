@@ -1,0 +1,12 @@
+{
+    "name": "Osvaldo Guzman",
+    "age": 22,
+    "city": "Seattle, WA",
+    "interests": [
+        "Anime",
+        "Gym",
+        "Running",
+        "music"
+    ],
+    "is_student": false
+}

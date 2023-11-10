@@ -28,12 +28,12 @@ print('Data loaded from data.json')
 print(loaded_data)
 
 
-    ##
+    #Modification to Json file created.
 loaded_data['age'] = 22
 loaded_data['interests'].append('music')
 
 
-#
+#Write the modification to Json file created. 
 with open('data.json', 'w') as json_file: 
     json.dump(loaded_data, json_file, indent=4)
 
